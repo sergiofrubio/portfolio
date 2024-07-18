@@ -16,16 +16,16 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <router-link class="nav-link" to="/">Home</router-link>
+            <router-link class="nav-link" to="/">Inicio</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/about">About</router-link>
+            <router-link class="nav-link" to="/about">Sobre mí</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/projects">Proyectos</router-link>
           </li>
           <!-- <li class="nav-item">
-            <router-link class="nav-link" to="/projects">Projects</router-link>
-          </li>
-          <li class="nav-item">
-            <router-link class="nav-link" to="/contact">Contact</router-link>
+            <router-link class="nav-link" to="/contact">Contacto</router-link>
           </li> -->
         </ul>
       </div>

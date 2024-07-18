@@ -1,7 +1,7 @@
 <template>
   <footer class="bg-light text-center text-lg-start">
     <div class="container p-4">
-      <p>&copy; 2024 Sergio Física Rubio. All Rights Reserved.</p>
+      <p>&copy; 2024 Sergio Física Rubio. Todos los derechos reservados.</p>
     </div>
 </footer>
 </template>
