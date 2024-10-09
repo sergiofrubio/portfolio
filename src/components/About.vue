@@ -11,6 +11,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="BootStrap" width="50" height="50"/>
       <img src="https://cdn-icons-png.flaticon.com/256/5968/5968332.png" alt="PHP" width="50" height="50"/>
       <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony" width="50" height="50"/>
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Symfony" width="50" height="50"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Symfony" width="50" height="50"/>
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vhv.rs%2Fdpng%2Fd%2F543-5438423_mysql-logo-hd-png-download.png&f=1&nofb=1&ipt=33151a5129ff80d6aa6cb22c4dc399125935436c4009eaa4ce728acbfc43d377&ipo=images" alt="MySQL" width="50" height="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="50" height="50"/>
     </div>
@@ -19,7 +21,7 @@
       <h2>Formación</h2>
       <ul>
         <li>
-          <h3>Grado en Matemáticas</h3>
+          <h3>Grado en Ingeniería Informática</h3>
           <p>Universidad Nacional de Educación a Distantia (España) - 2024 - Presente</p>
         </li>
         <li>
